@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "532-Rm-2gh"; */
+"532-Rm-2gh.text" = "Label";
+
+/* Class = "UILabel"; text = "Je me sens bien"; ObjectID = "GfD-qp-rN0"; */
+"GfD-qp-rN0.text" = "Je me sens bien";
+
+/* Class = "UIButton"; normalTitle = "Connecter ma plante"; ObjectID = "Hwk-27-bCu"; */
+"Hwk-27-bCu.normalTitle" = "Connecter ma plante";
+
+/* Class = "UILabel"; text = "Ma Plante"; ObjectID = "Isg-y0-6om"; */
+"Isg-y0-6om.text" = "Ma Plante";
+
+/* Class = "UILabel"; text = "Je suis actuellement à % d'humidité"; ObjectID = "NRm-jG-e4U"; */
+"NRm-jG-e4U.text" = "Je suis actuellement à % d'humidité";
+
+/* Class = "UILabel"; text = "Mes informations.."; ObjectID = "a3K-S8-RjY"; */
+"a3K-S8-RjY.text" = "Mes informations..";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "aRm-Dk-nRi"; */
+"aRm-Dk-nRi.text" = "50";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g9u-2A-mKN"; */
+"g9u-2A-mKN.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Scanner ma plante"; ObjectID = "iCx-Ke-lNc"; */
+"iCx-Ke-lNc.normalTitle" = "Scanner ma plante";
+
+/* Class = "UILabel"; text = "Connecte ta Plante !"; ObjectID = "ibR-z1-PEe"; */
+"ibR-z1-PEe.text" = "Connecte ta Plante !";
+
+/* Class = "UILabel"; text = "Qui vient de planter un arbre, doit apprendre à patienter avant d'en recueillir les fruits"; ObjectID = "kq3-tS-wns"; */
+"kq3-tS-wns.text" = "Qui vient de planter un arbre, doit apprendre à patienter avant d'en recueillir les fruits";
+
+/* Class = "UILabel"; text = "Ma Plante"; ObjectID = "sRn-Kx-iua"; */
+"sRn-Kx-iua.text" = "Ma Plante";

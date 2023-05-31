@@ -1,0 +1,6 @@
+framework module Pods_Plante_Bluetooth {
+  umbrella header "Pods-Plante Bluetooth-umbrella.h"
+
+  export *
+  module * { export * }
+}
