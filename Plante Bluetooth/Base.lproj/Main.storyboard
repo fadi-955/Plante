@@ -108,8 +108,8 @@
                                         <rect key="frame" x="0.0" y="-49" width="414" height="167"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="iSZ-e3-3s9">
-                                        <rect key="frame" x="62" y="102" width="290" height="290"/>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="iSZ-e3-3s9">
+                                        <rect key="frame" x="62" y="85.5" width="290" height="290"/>
                                         <constraints>
                                             <constraint firstAttribute="width" secondItem="iSZ-e3-3s9" secondAttribute="height" multiplier="1:1" id="pDf-uo-icH"/>
                                         </constraints>
@@ -156,10 +156,6 @@
                                     <constraint firstItem="532-Rm-2gh" firstAttribute="centerY" secondItem="UOv-L7-7aF" secondAttribute="centerY" id="q0A-D1-2CV"/>
                                 </constraints>
                             </view>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Dd3-3L-Ixj" userLabel="ButtonView">
-                                <rect key="frame" x="0.0" y="676.5" width="414" height="161.5"/>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                            </view>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="XlN-Xc-0XT"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -172,13 +168,9 @@
                             <constraint firstItem="UOv-L7-7aF" firstAttribute="top" secondItem="nU2-S9-BMy" secondAttribute="bottom" id="ASd-AQ-2ta"/>
                             <constraint firstItem="UOv-L7-7aF" firstAttribute="height" secondItem="Inc-lH-xI4" secondAttribute="height" multiplier="0.15" id="CGo-ff-tag"/>
                             <constraint firstItem="NTr-6D-PNh" firstAttribute="leading" secondItem="XlN-Xc-0XT" secondAttribute="leading" id="FFY-36-8LU"/>
-                            <constraint firstItem="Dd3-3L-Ixj" firstAttribute="bottom" secondItem="XlN-Xc-0XT" secondAttribute="bottom" id="GX6-LQ-o0E"/>
                             <constraint firstItem="XlN-Xc-0XT" firstAttribute="trailing" secondItem="UOv-L7-7aF" secondAttribute="trailing" id="MaV-l4-MYv"/>
                             <constraint firstItem="XlN-Xc-0XT" firstAttribute="trailing" secondItem="NTr-6D-PNh" secondAttribute="trailing" id="QAX-OI-5YR"/>
                             <constraint firstItem="nU2-S9-BMy" firstAttribute="top" secondItem="NTr-6D-PNh" secondAttribute="bottom" id="XjV-F9-DPA"/>
-                            <constraint firstItem="XlN-Xc-0XT" firstAttribute="trailing" secondItem="Dd3-3L-Ixj" secondAttribute="trailing" id="eB4-ym-RSD"/>
-                            <constraint firstItem="Dd3-3L-Ixj" firstAttribute="top" secondItem="UOv-L7-7aF" secondAttribute="bottom" id="hRk-Wo-fct"/>
-                            <constraint firstItem="Dd3-3L-Ixj" firstAttribute="leading" secondItem="XlN-Xc-0XT" secondAttribute="leading" id="k7q-Z2-REt"/>
                             <constraint firstItem="NTr-6D-PNh" firstAttribute="height" secondItem="Inc-lH-xI4" secondAttribute="height" multiplier="0.55" id="sCj-u4-nWh"/>
                             <constraint firstItem="nU2-S9-BMy" firstAttribute="height" secondItem="Inc-lH-xI4" secondAttribute="height" multiplier="0.05" id="tvE-pZ-8kb"/>
                         </constraints>
@@ -192,7 +184,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xxC-mD-9wZ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-522" y="102"/>
+            <point key="canvasLocation" x="-523.1884057971015" y="101.78571428571428"/>
         </scene>
     </scenes>
     <resources>

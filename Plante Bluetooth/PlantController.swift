@@ -1,5 +1,4 @@
 import UIKit
-import CoreBluetooth
 import Lottie
 
 protocol plantControllerDelegate {
@@ -14,7 +13,6 @@ class PlantController: UIViewController, UIAdaptivePresentationControllerDelegat
     let sizeScreen = UIScreen.main.bounds
     // MARK: - IBOutlets
     @IBOutlet var botScreenView: UIView!
-    @IBOutlet var labelHumidity: UILabel!
     @IBOutlet var hauteurTextBubble: NSLayoutConstraint!
     @IBOutlet var labelBubble: UILabel!
     @IBOutlet var descriptionLabel: UILabel!

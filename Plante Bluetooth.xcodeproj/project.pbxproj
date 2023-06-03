@@ -371,6 +371,7 @@
 			baseConfigurationReference = 6C6D6122B7D88CA5B981BABA /* Pods-Plante Bluetooth.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 98P6C572ND;
 				INFOPLIST_FILE = "Plante Bluetooth/Info.plist";
@@ -378,8 +379,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "tsoriano.Plante-Bluetooth";
+				PRODUCT_BUNDLE_IDENTIFIER = "tsoriano.Plante-Scan";
 				PRODUCT_NAME = "Plant Connect";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -390,6 +392,7 @@
 			baseConfigurationReference = 4855752B2E758A515E004BB7 /* Pods-Plante Bluetooth.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 98P6C572ND;
 				INFOPLIST_FILE = "Plante Bluetooth/Info.plist";
@@ -397,8 +400,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "tsoriano.Plante-Bluetooth";
+				PRODUCT_BUNDLE_IDENTIFIER = "tsoriano.Plante-Scan";
 				PRODUCT_NAME = "Plant Connect";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};

@@ -40,7 +40,8 @@ class StartViewController: UIViewController, UIImagePickerControllerDelegate, UI
         if let image = info[.originalImage] as? UIImage {
             userImage = image
             print("IMAGE WELL RECEIVED")
-            guard let ciimage = CIImage(image: image) else {
+            guard let ciimage = CIImage(image: image)
+            else {
                 fatalError("Cannot convert to ciimage")
             }
             detect(image: ciimage)
@@ -104,6 +105,4 @@ class StartViewController: UIViewController, UIImagePickerControllerDelegate, UI
             }
         }
     }
-   
-
 }

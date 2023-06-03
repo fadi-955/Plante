@@ -13,8 +13,6 @@ class DescriptionViewController: UIViewController {
 
     // MARK: - IBOutlets
     @IBOutlet var plantImage: UIImageView!
-    @IBOutlet var connectionButtonOutlet: UIButton!
-    @IBOutlet var restartButtonOutlet: UIButton!
     @IBOutlet var plantName: UILabel!
     @IBOutlet var plantDescription: UILabel!
     
@@ -59,12 +57,5 @@ class DescriptionViewController: UIViewController {
         }
         return ""
     }
-
-    // MARK: - IBActions
-    @IBAction func toConnectionPage(_ sender: UIButton) {
-    }
-    @IBAction func restartCapture(_ sender: UIButton) {
-    }
-    
 }
 
